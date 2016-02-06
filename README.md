@@ -1,2 +1,2 @@
-# projects2
+# projects
 Portfolio
